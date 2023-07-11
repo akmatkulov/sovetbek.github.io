@@ -1,0 +1,45 @@
+h1 {
+  text-align: right;
+  color: orange;
+}
+
+.sklad {
+  color: blue;
+}
+
+.ogorod {
+  color: orange;
+}
+
+.ogorodfrukt {
+  color: slategrey;
+}
+.ogorodovoshi {
+  color: red;
+}
+.skladfrut {
+  color: green;
+}
+
+em {
+  background-color: green;
+  color: white;
+}
+
+p {
+  font-weight: bold;
+}
+
+p::first-letter {
+  font-size: 200%;
+  color: red;
+}
+
+table, tr, td {
+  border: 1px solid;
+}
+
+.greentd {
+  background-color: green;
+  text-align: center;
+}
